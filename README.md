@@ -42,7 +42,7 @@ AWS Serverless + AI/ML:
 └── QuickSight – Real-time Analytics
 
 ## Architecture Overview
-![Simplified Architecture](AWS_Diagram.png)
+![Simplified Architecture](AWS Diagram.png)
 
 ## Expected Impact
 - 80%+ auto-routing accuracy (vs 40% manual)
